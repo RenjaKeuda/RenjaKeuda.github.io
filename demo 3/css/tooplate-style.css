@@ -23,6 +23,7 @@ body {
   -webkit-font-smoothing: antialiased;
   padding: 80px;
   overflow-x: hidden;
+  background-image:url("img/kissatassu.jpg");
 }
 
 textarea {
